@@ -1,0 +1,221 @@
+
+
+p {
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    color: lime;
+    opacity: 100%;
+}
+
+h2 {
+
+color: greenyellow;
+text-align: center;
+
+
+   
+}
+h1 {
+    color: red;
+}
+.crazy {
+    color: lime;
+   
+} 
+.crazy:hover {
+    color: green;
+}
+.Mario {
+   
+    justify-self:center;
+   
+    border: 1px solid #141414;
+    background-color: #141414;
+   
+    padding: 10px;
+    margin-left:0px ; 
+
+}
+.Luigi {
+   
+    justify-self:center;
+   
+    border: 1px solid #FFFF;
+    background-color: #FFFF;
+   
+    padding: 10px;
+   float: left;
+
+}
+#imgS {
+    width: 300px;
+    height: 210px;
+}
+
+.DButton {
+    color: white;
+    text-align: center;
+    border: 2px solid white;
+    background-color: lime;
+    
+
+  
+
+}
+.DButton:hover {
+    color: gray;
+    text-align: center;
+    border: 2px solid gray;
+    background-color: green;
+   
+    padding: 20px;
+}
+
+#autoSize {
+ 
+   text-align: center;
+   size: 1px;
+}
+
+
+
+body {
+    background-image: url(Image/CityE.gif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeats;
+}
+
+
+.DownloadImgContain {
+    position: relative;
+    text-align: center;
+  
+}
+.DownloadImg {
+    width: 75%;
+    height: auto;
+   
+}
+.DownloadText {
+    position: absolute;
+    left: 50%;
+    top: 90%;
+    color: black;
+    text-align: center;
+    border: 2px solid white;
+    padding: 30px;
+    width: 15%;
+    background-color: lime;
+    transform: translate(-50%,-50%);
+    font-size: 24px;
+}
+.DownloadText:hover{
+    position: absolute;
+    left: 50%;
+    top: 90%;
+    color: black;
+    text-align: center;
+    color: gray;
+    padding: 30px;
+    width: 15%;
+    border: 2px solid gray;
+    background-color: green;
+    transform: translate(-50%,-50%);
+    font-size: 24px;
+}
+
+.paragraphBack {
+    border: black;
+    background-color: black;
+    position:relative;
+    text-align: center;
+    padding: 30px;
+    
+}
+#JebBack {
+    background-image: url(Image/JEBAITED.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeats;
+}
+#ProductBack {
+    background-image: url(Image/BlackScreen.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeats;
+   
+
+}
+#shopkeeperSizing {
+    width: 50%;
+    height: auto;
+    float: right;
+   
+}
+#imgRadio {
+position: relative;
+width: 40%;
+height: auto;
+float: left;
+margin-top: -300px;
+}
+#imgRadio2 {
+    position: relative;
+    width: 40%;
+    height: auto;
+    float: left;
+    margin-top: -300px;
+    }
+.shopkeepersContainter {
+    position: relative;
+    margin-top: 50px;
+    
+}
+.ButtonRadio {
+
+    border: none !important;
+    font-size:0;
+}
+.backgroundRadioEEE {
+    background-image: url(Image/radio\ \(1\).gif);
+    
+}
+.MakeBackgroundImgBlank {
+
+    background: transparent;
+    border: none;
+ 
+    float: left;
+    
+}
+#gamePass {
+    margin-top: 0%;
+    border:10px;
+    border-color: greenyellow;
+   
+    width: 20%;
+    height: auto;
+}
+.shopBackground {
+
+    color: white;
+    text-align: left;
+    border: 0px solid white;
+    background-color: #7f3f00;
+    padding-top: 10%;
+} 
+.lepurachase {
+
+    border:1px solid lime;
+    padding: 10px;
+    justify-self: auto;
+    height: auto;
+}
+.SketchBackground{
+   
+    background-image: url(Image/JEBAITED.jpeg);
+    background-size: cover;
+    
+    background-repeat: no-repeats;
+}
